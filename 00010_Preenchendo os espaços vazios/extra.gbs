@@ -1,0 +1,5 @@
+procedure Colocar3(cor) {
+  Colocar(cor)
+  Colocar(cor)
+  Colocar(cor)
+}
