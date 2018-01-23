@@ -1,0 +1,3 @@
+Acabamos de dizer que a ordem em que passávamos os  **argumentos** era importante mas nunca te falamos o porquê...
+
+> Prove o seguinte: escreva um programa qualquer que use `DesenharLinha3`, mas dessa vez tente usar com os argumentos invertidos (primeiro a direção e em seguida a cor).
