@@ -1,0 +1,23 @@
+procedure DesenharQuadradoPretoDeLado3() {
+  Colocar(Preto)
+  Mover(Leste)
+  Colocar(Preto)
+  Mover(Leste)
+  Colocar(Preto)
+  Mover(Norte)
+  Colocar(Preto)
+  Mover(Oeste)
+  Colocar(Preto)
+  Mover(Oeste)
+  Colocar(Preto)
+  Mover(Norte)
+  Colocar(Preto)
+  Mover(Leste)
+  Colocar(Preto)
+  Mover(Leste)
+  Colocar(Preto)    
+}
+
+program {
+  DesenharQuadradoPretoDeLado3()   
+}
