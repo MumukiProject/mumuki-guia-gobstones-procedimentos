@@ -1,0 +1,7 @@
+procedure DesenharLinea3(cor, direcao) {
+  Colocar(cor)
+  Mover(direcao)
+  Colocar(cor)
+  Mover(direcao)
+  Colocar(cor)
+}
