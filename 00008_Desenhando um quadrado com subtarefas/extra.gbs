@@ -1,0 +1,13 @@
+procedure VoltarAtras() {
+	Mover(Oeste)
+	Mover(Oeste)
+}
+
+procedure DesenharLinhaPreta3() {
+	Colocar(Preto)
+	Mover(Leste)
+	Colocar(Preto)
+	Mover(Leste)
+	Colocar(Preto)
+	VoltarAtras()
+}

@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DesenharQuadradoPretoDeLado3
+  inspection: Uses:DesenharLinhaPreta3
+- binding: DesenharQuadradoPretoDeLado3
+  inspection: Not:Uses:VoltarAtras
