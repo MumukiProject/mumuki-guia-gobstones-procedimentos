@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:DesenharQuadradoDeLado3
+- binding: DesenharQuadradoDeLado3
+  inspection: Uses:DesenharLinha3
