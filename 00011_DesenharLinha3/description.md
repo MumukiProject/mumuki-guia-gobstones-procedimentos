@@ -16,4 +16,3 @@ procedure DesenharLinhaPreta3() {
 ...escreva um procedimento `DesenharLinha3` que receba uma cor e que desenhe uma linha com essa cor.
 
 Nós nos responsabilizaremos por escrever os `program`s para usar com cada uma das cores.
-lala
