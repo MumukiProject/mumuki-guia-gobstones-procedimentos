@@ -1,0 +1,1 @@
+Fique de olho! `DesenharLinha3` deve servir para **qualquer** cor.

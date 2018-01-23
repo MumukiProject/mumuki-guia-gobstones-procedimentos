@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:DesenharLinha3
+- binding: DesenharLinha3
+  inspection: Uses:VoltarAtras
