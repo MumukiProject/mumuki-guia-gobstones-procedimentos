@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: DesenharQuadradoPretoDeLado3
-  inspection: DeclaresProcedure
+- binding: "*"
+  inspection: DeclaresProcedure:DesenharQuadradoPretoDeLado3
 - binding: program
   inspection: Uses:DesenharQuadradoPretoDeLado3
