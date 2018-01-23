@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: Not:DeclaresProcedure:Colocar3Verdes
+- binding: program
+  inspection: Uses:Colocar3Verdes

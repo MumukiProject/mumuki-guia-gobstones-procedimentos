@@ -1,0 +1,5 @@
+procedure Colocar3Verdes() {
+  Colocar(Verde)
+  Colocar(Verde)
+  Colocar(Verde)
+}
