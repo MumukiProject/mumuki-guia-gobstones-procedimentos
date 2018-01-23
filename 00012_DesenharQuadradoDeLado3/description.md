@@ -1,4 +1,3 @@
 Façamos então o último passo: usando `DesenharLinha3`, defina um procedimento `DesenharQuadradoDeLado3`, que receba uma `cor` e desenhe um quadrado de 3x3 com essa cor.
 
 Lembre que `DesenharLinha3` tem um buraquinho, e terá que preencher com algo...
-lala
