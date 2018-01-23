@@ -1,0 +1,4 @@
+procedure VoltarAtras() {
+	Mover(Oeste)
+	Mover(Oeste)
+}
