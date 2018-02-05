@@ -12,10 +12,16 @@ Por exemplo `Triade(Vermelho, Azul, Verde)` produziria este resultado:
     cell 2 0 Verde 1
     head 2 0
 </gs-board>
-![triada-rav](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-procedimientos/master/images/triada-rav.png)
 
 enquanto que `Triade(Azul, Verde, Vermelho)` faria este outro:
 
-![triada-avr](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-procedimientos/master/images/triada-avr.png)
+<gs-board>
+  GBB/1.0
+    size 3 1
+    cell 0 0 Azul 1
+    cell 1 0 Verde 1
+    cell 2 0 Rojo 1
+    head 2 0
+</gs-board>
 
 > Execute o procedimento `Triade`, que deve utilizar 3 parâmetros.
