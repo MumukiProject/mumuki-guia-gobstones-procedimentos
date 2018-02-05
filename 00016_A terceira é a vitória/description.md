@@ -4,6 +4,14 @@ O que deve realizar esse procedimento, que chamaremos `Triade`, é simples: colo
 
 Por exemplo `Triade(Vermelho, Azul, Verde)` produziria este resultado:
 
+<gs-board>
+  GBB/1.0
+    size 3 1
+    cell 0 0 Rojo 1
+    cell 1 0 Azul 1
+    cell 2 0 Verde 1
+    head 2 0
+</gs-board>
 ![triada-rav](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-procedimientos/master/images/triada-rav.png)
 
 enquanto que `Triade(Azul, Verde, Vermelho)` faria este outro:

@@ -2,7 +2,7 @@ subject: Triade
 
 examples:
  - arguments:
-    - Rojo
+    - Vermelho
     - Azul
     - Verde
    initial_board: |
@@ -19,7 +19,7 @@ examples:
  - arguments:
     - Azul
     - Verde
-    - Rojo
+    - Vermelho
    initial_board: |
      GBB/1.0
      size 3 1
