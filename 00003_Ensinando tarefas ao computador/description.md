@@ -5,4 +5,4 @@ Como introduzimos com o exemplo do quadrado, podemos começar a diferenciar dois
 
 Quando criamos um procedimento estamos “ensinando” ao computador a realizar uma nova tarefa, que originalmente não estava incluída na linguagem. Seria impossível escrever uma linguagem que contenha _TUDO_ o que imaginamos ser possível fazer. O que acha?
 
-> Agora é a sua vez: escreva um procedimento `Colocar3Verdes` que coloque 3 peças verdes na **célula atual** e um program que o use.
+> Agora é a sua vez: escreva um procedimento `Colocar3Verdes` que coloque 3 peças verdes na **célula atual** e um `program` que o use.
