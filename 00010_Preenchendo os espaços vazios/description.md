@@ -44,5 +44,5 @@ Colocar(Vermelho)
 
 Note como cada vez que aparece `cor`, ele é substituído pelo valor que passamos na invocação.
 
-> Vamos ver se você está entendendo: escreva um programa que coloque três pedras verdes usando o procedimento Colocar3.
+> Vamos ver se você está entendendo: escreva um programa que coloque três pedras verdes usando o procedimento `Colocar3`.
  
