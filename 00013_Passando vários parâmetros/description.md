@@ -18,4 +18,20 @@ procedure DesenharLinha3(cor, direcao) {
 
 > Sua tarefa agora é escrever um `program` que use a nova versão de `DesenharLinha3` (não necessita implementar, apenas usá-la) e desenhe um quadrado multicolorido como este:
  
-![Cuadrado multicolor](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-2-procedimientos/master/4x4h00cuadrado-multicolor.png)
+<gs-board>
+  GBB/1.0
+    size 4 4
+    cell 0 1 Azul 1
+    cell 0 2 Azul 1
+    cell 0 3 Azul 1
+    cell 1 3 Negro 1
+    cell 2 3 Negro 1
+    cell 3 3 Negro 1
+    cell 3 2 Rojo 1
+    cell 3 1 Rojo 1
+    cell 3 0 Rojo 1
+    cell 2 0 Verde 1
+    cell 1 0 Verde 1
+    cell 0 0 Verde 1
+    head 0 0
+</gs-board>
